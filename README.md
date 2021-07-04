@@ -1,3 +1,3 @@
-# Hi, I'm Sofi. Welcome to my github page!
+# :wave: I'm Sofi. Welcome to my github space!
 
-Business Economics graduate working in the Data Science field.
+Getting started in the Data Science field
