@@ -1,4 +1,4 @@
-# :wave: Welcome!
+# :wave:
 
 # I'm Sofi,
 
